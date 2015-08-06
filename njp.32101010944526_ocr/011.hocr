@@ -1,0 +1,20 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/4/njp.32101010944526/011.png"; bbox 0 0 1925 3060; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 744 769 975 834">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 744 769 975 834">
+     <span class='ocr_line' id='line_1_1' title="bbox 744 769 975 834; baseline -0.022 0"><span class='ocrx_word' id='word_1_1' title='bbox 744 769 975 834; x_wconf 56' lang='grc' dir='ltr'><em>ἕλὸὶῑζ)</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 675 871 921 925">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 675 871 921 925">
+     <span class='ocr_line' id='line_1_2' title="bbox 675 871 921 925; baseline 0.033 -9"><span class='ocrx_word' id='word_1_2' title='bbox 675 871 921 925; x_wconf 48' lang='grc'><em>’,646</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 736 966 865 1032">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 736 966 865 1032">
+     <span class='ocr_line' id='line_1_3' title="bbox 736 966 865 1032; baseline -0.008 0"><span class='ocrx_word' id='word_1_3' title='bbox 736 991 779 1032; x_wconf 60' lang='lat' dir='ltr'><em>\s‘</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 818 966 865 1031; x_wconf 67' lang='lat'><em>4-</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
